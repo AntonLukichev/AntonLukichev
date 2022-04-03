@@ -10,10 +10,18 @@
 
 ![](https://komarev.com/ghpvc/?username=AntonLukichev&color=brightgreen&flat=flat)
 
+<a href="https://github.com/AntonLukichev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AntonLukichev&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/AntonLukichev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonLukichev&hide=php&theme=dracula&langs_count=3" />
+</a>
+
+<!--
 ![AntonLukichev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonLukichev&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonLukichev&hide=php&layout=compact&theme=dracula)
-
+-->
 <!--
 **AntonLukichev/AntonLukichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
