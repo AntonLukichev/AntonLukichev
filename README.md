@@ -12,9 +12,9 @@
 
 ## 📝 Statistics
 
-[![AntonLukichev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonLukichev&count_private=true&show_icons=true&theme=dracula)]
+![AntonLukichev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonLukichev&count_private=true&show_icons=true&theme=dracula)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonLukichev&hide=php&layout=compact&theme=dracula)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonLukichev&hide=php&layout=compact&theme=dracula)]
 
 <!--
 **AntonLukichev/AntonLukichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
