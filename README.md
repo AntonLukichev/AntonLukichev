@@ -1,4 +1,20 @@
-### Hi there 👋
+## Hi, I'm Anton Lukichev 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=333333&lines=Full+Stack+Developer;TeamLead+in+SberMarket)](https://git.io/typing-svg)
+
+---
+
+## :hammer_and_wrench: Technologies
+
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,nodejs,react,vue,mongodb,postgresql,redis,py,django,docker,kubernetes,md,git,figma,nginx,vscode&theme=light)
+
+---
+
+## 📝 Statistics
+
+[![AntonLukichev's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonLukichev&count_private=true&show_icons=true&theme=dracula)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonLukichev&hide=php&layout=compact&theme=dracula)]
 
 <!--
 **AntonLukichev/AntonLukichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
